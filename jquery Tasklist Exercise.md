@@ -15,3 +15,8 @@ Inside of the “add to list” click function - after creating/appending the ne
 In your HTML, add a button next to the “Add to list” button that says “Remove Completed Tasks” and has an ID of “removeComplete”
 
 add a clickhandler to your 'Remove Completed Tasks' button that will delete all list items in the task list with the class '.complete’.
+
+## Stretch
+Add a mouseover function that highlights list items when you put your mouse over them by changing their background-color to yellow.
+
+Add another function (look up what event this might be) that removes the highlighted background color when the mouse is no longer hovering over the list item.
