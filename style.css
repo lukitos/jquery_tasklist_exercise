@@ -1,0 +1,19 @@
+* {
+  font-family: 'Arial';
+}
+
+#itemInput {
+  border-radius: 2px;
+  border-style: none;
+  background-color: #f0f0f0;
+  line-height: 2em;
+}
+
+.list-item, .complete {
+  list-style: none;
+}
+
+.complete {
+  font-style: italic;
+  text-decoration: line-through;
+}
